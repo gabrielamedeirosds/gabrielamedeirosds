@@ -1,11 +1,11 @@
-## Hi there 👋
+## Gabi here! 👋
 
 </div>
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/11705576d14cf8a76e435c6e8cf3e1c7.gif" width="175" height="175" style="border-radius:50px; alt="https://picasion.com/" /></a><br />
 
 
 
-- 🔭 I’m currently working on Data Science.
+- 🎲 I’m currently working on Data Science.
 - 🌱 I’m currently learning Data Science, Data Engineer, Machine Learning and NLP.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love wiener dogs 🌭
