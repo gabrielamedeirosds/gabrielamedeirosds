@@ -6,7 +6,7 @@
 
 
 - 🎲 I’m currently working on Data Science.
-- 🌱 I’m currently learning Data Science, Data Engineer, Machine Learning and NLP.
+- 🌱 I’m currently learning Data Science, Machine Learning and NLP.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love wiener dogs 🌭
 
